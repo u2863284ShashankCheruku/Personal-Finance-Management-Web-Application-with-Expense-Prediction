@@ -21,7 +21,7 @@ A full-stack personal finance app to log income/expenses, set monthly budgets, v
 Prerequisites:
 - Python 3.9+
 - Node.js 18+ (npm)
-- PostgreSQL (optional for production)
+- PostgreSQL 
 
 1) Backend (Windows PowerShell)
 ```powershell
