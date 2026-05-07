@@ -91,5 +91,4 @@ curl -H "Authorization: Bearer TOKEN" http://127.0.0.1:5000/api/predict/
 2. Create a branch: `git checkout -b feat/your-feature`
 3. Make changes, run tests, open a PR
 
-## License
-This project can use the MIT license (add `LICENSE` file).
+
